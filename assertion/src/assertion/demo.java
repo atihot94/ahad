@@ -12,6 +12,8 @@ public class demo {
 		assert a==2:"not valid";
 		
 		System.out.println("your age is....: "+a);
+		System.out.println("your age is....: "+a);
+		System.out.println("your age is....: "+a);
 	}
 
 }
